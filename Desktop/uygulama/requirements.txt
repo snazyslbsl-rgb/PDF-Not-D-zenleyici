@@ -1,0 +1,4 @@
+streamlit
+PyMuPDF  # fitz modülünü içerir
+google-genai
+streamlit-cookies-manager
